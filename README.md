@@ -1,2 +1,2 @@
 # comienzo
-comenzando a utilizar herramienta Github 
+Comenzando a utilizar herramienta Github...
